@@ -10,7 +10,7 @@
 }
 
 :root {
-  --fg: #f6ebd9;
+  --fg: #f5d9ab;
   --bg: #ec9f30;
 
   --primary-color: var(--bg);
@@ -28,10 +28,11 @@ body {
   line-height: 1.6;
   font-family: Akshar, sans-serif;
   font-size: 20px;
-  background-color: var(--bg);
+  /* background-color: var(--bg); */
   background-image: url("../images/noise.png");
   color: var(--fg);
   letter-spacing: 1px;
+    background-color: #4e75a2;
 }
 
 header {

@@ -18,6 +18,7 @@
   --accent-color: #435443;
   --text-color: var(--fg);
   --dark-color: #353535;
+  text-shadow: 2px 2px grey;
 }
 
 html {

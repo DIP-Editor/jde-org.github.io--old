@@ -173,4 +173,6 @@ family: Courier New bold
 normal: 15
 med: 20
 large: 35
+min: 10
+max: 30
 </font>

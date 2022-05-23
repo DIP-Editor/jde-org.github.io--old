@@ -65,6 +65,7 @@ range
 raise
 True
 class
+__init__
 finally
 is
 return
